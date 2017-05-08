@@ -1,2 +1,3 @@
 API_TOKEN = "bot API TOKEN"
-default_reply = "きゃあああああ"
+PROCNAME = "process name"
+CHANNEL = "channel name"
