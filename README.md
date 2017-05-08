@@ -1,4 +1,4 @@
-# monitor_process
+# slack-cpu-monitor
 プロセスのCPU利用率をSlackに投下
 
 # requirement
