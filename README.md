@@ -4,6 +4,8 @@
 # requirement
 - python 3.5.2
   - psutil==5.2.2
+  - slackbot==0.4.1
+
 # how to use
 下記を変更
 - slackbot_settings.py
