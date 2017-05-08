@@ -10,3 +10,7 @@
   - API_TOKEN:SlackBotトークン
 - run_bot.py
   - PROCNAME:監視対象プロセス名
+
+```
+python run_bot.py
+```
